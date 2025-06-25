@@ -1,1 +1,19 @@
-[]
+[
+    {     
+        "username": "Mukul admin",     
+        "password": "$2b$21$oNcvgEf7aZhL.rb82J3FTMkeuy0NX9CXbqdpRnvxydaGZesKJY88DZfa",     
+        "roles": {"Admin": 5150, "Editor": 1984, "User": 2001 } 
+    },
+    {
+        "username": "Mukul editor",     
+        "password": "$2b$10$DUI5xesr1qMwu.K60D1B/_8MmAkTWbh5rAsRn1HA56Z4b5H0wmgk2" ,     
+        "roles": {"Editor": 1984, "User": 2001} 
+    },
+
+    {
+        "username": "Mukul user",     
+        "password": "$2b$10$E3e..qfHKP337k.j9e.HA.LF0FDDadq.PWpAUQFKK6hwzyYTcpZia",     
+        "roles": {"User": 2001 }
+    }
+
+]
