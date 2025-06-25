@@ -1,0 +1,6 @@
+23:06:2025	15:35:43	27fd7781-2132-4b16-a0a1-51640467534e	SyntaxError	Expected ',' or '}' after property value in JSON at position 32 (line 3 column 5)
+23:06:2025	15:54:47	b7f74b6c-c482-4c2e-86ec-9e37d92fb44f	Error	"expiresin" is not allowed in "options"
+23:06:2025	16:18:08	6aaabb15-260b-40b6-886d-ac65c25e6d8e	Error	Cannot set headers after they are sent to the client
+23:06:2025	16:18:47	c5107eee-c73a-41c1-93a8-ff105f8fa6cf	Error	Cannot set headers after they are sent to the client
+23:06:2025	16:19:05	3c4ef8f0-5711-4877-a10f-bb1844624dd9	Error	Cannot set headers after they are sent to the client
+23:06:2025	16:25:14	e5d6ba90-34e2-4365-9ebf-c5ab1229ce02	Error	Cannot set headers after they are sent to the client
